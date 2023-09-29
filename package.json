@@ -1,0 +1,36 @@
+{
+  "name": "json2instance",
+  "version": "1.0.0",
+  "description": "Small repo to convert json object in a real instance of a class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sd-softdev/json2instance.git"
+  },
+  "keywords": [
+    "json",
+    "object",
+    "json2object",
+    "instance",
+    "json2instance"
+  ],
+  "author": "Daniel Schmitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sd-softdev/json2instance/issues"
+  },
+  "homepage": "https://github.com/sd-softdev/json2instance#readme",
+  "dependencies": {
+    "ical2json": "^3.1.2",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.6.2",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.7.1"
+  }
+}
